@@ -1,2 +1,2 @@
 # 191-Roman-Geluz
-Created public repo per Acitivity 1 (INF 191) 
+Created public repo per Activity 1 "Git/GitHub practice" (INF 191) 
